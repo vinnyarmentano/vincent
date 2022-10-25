@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "vincentarmentano.netlify.app"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Vincent Armentano"
@@ -31,8 +31,8 @@ enableEmoji = true
   orgName = "Vincent Armentano"
   orgLocal = "San Diego"
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
-  favicon = "/img/saturnBW.ico"
-  logo = "/img/saturnBW.png"
+  favicon = "/img/bigVA.ico"
+  logo = "/img/bigVA.png"
   mainSections = []
   navallcaps = true
   # show/hide social icons in site header & footer

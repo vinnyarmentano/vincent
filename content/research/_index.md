@@ -15,7 +15,7 @@ description: "This is a fully featured blog that supports categories, \ntags, se
   and pagination.\n"
 layout: list-sidebar
 show_author_byline: false
-show_button_links: true
+show_button_links: false
 show_post_date: false
 show_post_thumbnail: true
 sidebar:
