@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teaching on Vincent Armentano</title>
-    <link>vincentarmentano.netlify.app/teaching/</link>
+    <link>https://vincentarmentano.netlify.app/teaching/</link>
     <description>Recent content in Teaching on Vincent Armentano</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="vincentarmentano.netlify.app/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://vincentarmentano.netlify.app/teaching/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Courses</title>
-      <link>vincentarmentano.netlify.app/teaching/courses/</link>
+      <link>https://vincentarmentano.netlify.app/teaching/courses/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>vincentarmentano.netlify.app/teaching/courses/</guid>
-      <description>Machine Learning for Causal Inference with R Syllabus and content forthcoming.</description>
+      <guid>https://vincentarmentano.netlify.app/teaching/courses/</guid>
+      <description>Machine Learning for Causal Inference with RSyllabus and content forthcoming.</description>
     </item>
     
     <item>
       <title>TA Work</title>
-      <link>vincentarmentano.netlify.app/teaching/ta/</link>
+      <link>https://vincentarmentano.netlify.app/teaching/ta/</link>
       <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>vincentarmentano.netlify.app/teaching/ta/</guid>
-      <description>ECON1: Principles of Microeconomics, Fall 2021 Each week of the ten week quarter I held an discussion section reviewing course content and helping students perform practice problems. I also held office hours, helped create exam questions and helped ensure lectures ran smoothly by answering questions in the lecture hall and on discord.
-ECON3: Principles of Macroeconomics, Winter 2022 For this course I specialized in covering topics of inflation and monetary policy for discussion sections.</description>
+      <guid>https://vincentarmentano.netlify.app/teaching/ta/</guid>
+      <description>ECON1: Principles of Microeconomics, Fall 2021Each week of the ten week quarter I held an discussion section reviewing course content and helping students perform practice problems. I also held office hours, helped create exam questions and helped ensure lectures ran smoothly by answering questions in the lecture hall and on discord.
+ECON3: Principles of Macroeconomics, Winter 2022For this course I specialized in covering topics of inflation and monetary policy for discussion sections.</description>
     </item>
     
     <item>
       <title>Extracurricular Service</title>
-      <link>vincentarmentano.netlify.app/teaching/extracurricular/</link>
+      <link>https://vincentarmentano.netlify.app/teaching/extracurricular/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>vincentarmentano.netlify.app/teaching/extracurricular/</guid>
+      <guid>https://vincentarmentano.netlify.app/teaching/extracurricular/</guid>
       <description>Service outside of the classroom is something very important to me. Wherever possible I hope to foster a love of economics in students and see extracurriculuars as a great way to do that.
-Graduate Student Research Seminar (GSRS) The Graduate Student Research Seminar (GSRS) is a weekly seminar for graduate students to present ongoing works to other graduate students. Alongside one other student, I help organize this seminar series each quarter.</description>
+Graduate Student Research Seminar (GSRS)The Graduate Student Research Seminar (GSRS) is a weekly seminar for graduate students to present ongoing works to other graduate students. Alongside one other student, I help organize this seminar series each quarter.</description>
     </item>
     
   </channel>

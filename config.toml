@@ -1,4 +1,4 @@
-baseURL = "vincentarmentano.netlify.app"
+baseURL = "https://vincentarmentano.netlify.app"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Vincent Armentano"
@@ -31,7 +31,7 @@ enableEmoji = true
   orgName = "Vincent Armentano"
   orgLocal = "San Diego"
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
-  favicon = "/img/bigVA.ico"
+  favicon = "/img/saturnBW.ico"
   logo = "/img/bigVA.png"
   mainSections = []
   navallcaps = true
@@ -41,7 +41,7 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/papillons.jpg"
+  sharing_image = "/img/bigVA.png"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "vinnyarmentano"
   
@@ -134,11 +134,11 @@ enableEmoji = true
     title = "Teaching"
     url = "/teaching/"
     weight = 4
-  #[[menu.header]]
-  #  name = "Blog"
-  #  title = "Blog"
-  #  url = "/blog/"
-  #  weight = 5
+  [[menu.header]]
+    name = "Blog"
+    title = "Blog"
+    url = "/blog/"
+    weight = 5
   #[[menu.header]]
   #  name = "Projects"
   #  title = "Project Portfolio"
@@ -168,8 +168,8 @@ enableEmoji = true
     weight = 1
 
 #Permalinks
-[permalinks]
-  research = "/blog/"
+#[permalinks]
+#  research = "/research/"
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
