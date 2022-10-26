@@ -31,7 +31,7 @@ enableEmoji = true
   orgName = "Vincent Armentano"
   orgLocal = "San Diego"
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
-  favicon = "/img/saturnBW.ico"
+  favicon = "/img/bigVA.ico"
   logo = "/img/bigVA.png"
   mainSections = []
   navallcaps = true
@@ -134,11 +134,11 @@ enableEmoji = true
     title = "Teaching"
     url = "/teaching/"
     weight = 4
-  [[menu.header]]
-    name = "Blog"
-    title = "Blog"
-    url = "/blog/"
-    weight = 5
+  #[[menu.header]]
+  #  name = "Blog"
+  #  title = "Blog"
+  #  url = "/blog/"
+  #  weight = 5
   #[[menu.header]]
   #  name = "Projects"
   #  title = "Project Portfolio"

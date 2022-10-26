@@ -3,7 +3,7 @@ author:
 categories:
 date: "2019-07-03"
 draft: false
-excerpt: I feel fortunate to have had the opportunity to set up and run courses during graduate school.
+excerpt: I feel fortunate to have had the opportunity to set up and teach courses during graduate school.
 layout: single
 subtitle:
 tags:
