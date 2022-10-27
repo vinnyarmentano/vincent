@@ -127,7 +127,7 @@ enableEmoji = true
   [[menu.header]]
     name = "CV"
     title = "CV"
-    url = "/cv/"
+    url = "/cv/armentano_v_cv.pdf"
     weight = 3
   [[menu.header]]
     name = "Teaching"
