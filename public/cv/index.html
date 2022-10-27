@@ -31,21 +31,21 @@
 <meta property="og:title" content="Curriculum Vitae | Vincent Armentano">
 <meta property="og:description" content="The &#34;kitchen sink,&#34; if you will ... a page showing examples of type and page elements included in this template." />
 <meta property="og:type" content="page" />
-<meta property="og:url" content="https://vincentarmentano.netlify.app/cv/" />
+<meta property="og:url" content="https://vincentarmentano.com/cv/" />
 <meta property="og:locale" content="en">
 
 
 
 
     
-        <meta property="og:image" content="https://vincentarmentano.netlify.app/img/bigVA.png" >
+        <meta property="og:image" content="https://vincentarmentano.com/img/bigVA.png" >
         <meta property="twitter:card" content="summary_large_image">
-        <meta name="twitter:image" content="https://vincentarmentano.netlify.app/img/bigVA.png" >
+        <meta name="twitter:image" content="https://vincentarmentano.com/img/bigVA.png" >
     
   <meta itemprop="name" content="Curriculum Vitae">
 <meta itemprop="description" content="The &#34;kitchen sink,&#34; if you will ... a page showing examples of type and page elements included in this template."><meta itemprop="datePublished" content="2019-02-18T12:27:33-06:00" />
 <meta itemprop="dateModified" content="2019-02-18T12:27:33-06:00" />
-<meta itemprop="wordCount" content="52">
+<meta itemprop="wordCount" content="16">
 <meta itemprop="keywords" content="" />
   
   
@@ -60,13 +60,13 @@
   <script src="/panelset.min.ed1ac24b6e16f4e2481e3d1d098ae66f5bc77438aef619e6e266d8ac5b00dc72.js" type="text/javascript"></script>
   
   
-  <script src="/main.min.a2c171d03a2af8a7a4dc1c68142867d2af2297a10772d61f8e80a11c52ed7a2c.js" type="text/javascript"></script>
+  <script src="/main.min.839c3c4085ed14506edb964f7335c8781b7b16b3d986218bfb7bd23ae6a364cb.js" type="text/javascript"></script>
 </head>
 <body>
       <div class="grid-container wide-body">
 <header class="site-header pt4 pb2 mb4 bb b--transparent ph5 headroom z-max" role="banner">
   <nav class="site-nav db dt-l w-100" role="navigation">
-    <a class="site-brand db dtc-l v-mid link no-underline w-100 w-33-l tc tl-l" href="https://vincentarmentano.netlify.app" title="Home">
+    <a class="site-brand db dtc-l v-mid link no-underline w-100 w-33-l tc tl-l" href="https://vincentarmentano.com" title="Home">
       <img src="/img/bigVA.png" class="dib db-l h2 w-auto" alt="Vincent Armentano">
     </a>
     <div class="site-links db dtc-l v-mid w-100 w-47-l tc tr-l mt3 mt0-l ttu tracked">
@@ -103,207 +103,11 @@
 
 
 
-<h1 id="one-day-this-will-be-a-pdf-opened-on-this-page-instead-of-a-link">One day this will be a PDF opened on this page instead of a link.
-  <a href="#one-day-this-will-be-a-pdf-opened-on-this-page-instead-of-a-link"></a>
+<h1 id="404-im-95-confident-this-isnt-the-page-youre-looking-for">404, I&rsquo;m 95% confident this isn&rsquo;t the page you&rsquo;re looking for!
+  <a href="#404-im-95-confident-this-isnt-the-page-youre-looking-for"></a>
 </h1>
-<p>I understand that Google Drive and Dropbox are blocked by some firewalls and so if you cannot see my CV through this link please message me.</p>
 <p>
-<a href="https://drive.google.com/file/d/13MriGVWQEJ3bVCx2i3FSBcFRjh6UX7WB/view?usp=sharing" target="_blank" rel="noopener">Please find my CV here.</a></p>
-<script type="text/javascript" src= '//js/pdf-js/build/pdf.js'></script>
-<style>
-#the-canvas {
-  border: 1px solid black;
-  direction: ltr;
-  width: 100%;
-  height: auto;
-  display: none;
-}
-
-#paginator {
-  display: none;
-  text-align: center;
-  margin-bottom: 10px;
-}
-
-#loadingWrapper {
-  display: none;
-  justify-content: center;
-  align-items: center;
-  width: 100%;
-  height: 350px;
-}
-
-#loading {
-  display: inline-block;
-  width: 50px;
-  height: 50px;
-  border: 3px solid #d2d0d0;;
-  border-radius: 50%;
-  border-top-color: #383838;
-  animation: spin 1s ease-in-out infinite;
-  -webkit-animation: spin 1s ease-in-out infinite;
-}
-
-@keyframes spin {
-  to { -webkit-transform: rotate(360deg); }
-}
-@-webkit-keyframes spin {
-  to { -webkit-transform: rotate(360deg); }
-}
-</style>
-
-<div id="paginator">
-    <button id="prev">Previous</button>
-    <button id="next">Next</button>
-    &nbsp; &nbsp;
-    <span>Page: <span id="page_num"></span> / <span id="page_count"></span></span>
-</div>
-<div id="embed-pdf-container">
-    <div id="loadingWrapper">
-      <div id="loading"></div>
-    </div>
-    <canvas id="the-canvas"></canvas>
-</div>
-
-<script type="text/javascript">
-window.onload = function() {
-
-
-var url = "https:\/\/vincentarmentano.netlify.app" + '.\/Armentano_V_CV.pdf';
-
-var hidePaginator = "" === "true";
-var hideLoader = "" === "true";
-var selectedPageNum = parseInt("") || 1;
-
-
-var pdfjsLib = window['pdfjs-dist/build/pdf'];
-
-
-pdfjsLib.GlobalWorkerOptions.workerSrc = "https:\/\/vincentarmentano.netlify.app" + '/js/pdf-js/build/pdf.worker.js';
-
-
-var pdfDoc = null,
-    pageNum = selectedPageNum,
-    pageRendering = false,
-    pageNumPending = null,
-    scale = 3,
-    canvas = document.getElementById('the-canvas'),
-    ctx = canvas.getContext('2d'),
-    paginator = document.getElementById("paginator"),
-    loadingWrapper = document.getElementById('loadingWrapper');
-
-
-
-showPaginator();
-showLoader();
-
-
-
-function renderPage(num) {
-  pageRendering = true;
-  
-  pdfDoc.getPage(num).then(function(page) {
-    var viewport = page.getViewport({scale: scale});
-    canvas.height = viewport.height;
-    canvas.width = viewport.width;
-
-    
-    var renderContext = {
-      canvasContext: ctx,
-      viewport: viewport
-    };
-    var renderTask = page.render(renderContext);
-
-    
-    renderTask.promise.then(function() {
-      pageRendering = false;
-      showContent();
-      
-      if (pageNumPending !== null) {
-        
-        renderPage(pageNumPending);
-        pageNumPending = null;
-      }
-    });
-  });
-
-  
-  document.getElementById('page_num').textContent = num;
-}
-
-
-
-function showContent() {
-  loadingWrapper.style.display = 'none';
-  canvas.style.display = 'block';
-}
-
-
-
-function showLoader() {
-  if(hideLoader) return
-  loadingWrapper.style.display = 'flex';
-  canvas.style.display = 'none';
-}
-
-
-
-function showPaginator() {
-  if(hidePaginator) return
-  paginator.style.display = 'block';
-}
-
-
-
-function queueRenderPage(num) {
-  if (pageRendering) {
-    pageNumPending = num;
-  } else {
-    renderPage(num);
-  }
-}
-
-
-
-function onPrevPage() {
-  if (pageNum <= 1) {
-    return;
-  }
-  pageNum--;
-  queueRenderPage(pageNum);
-}
-document.getElementById('prev').addEventListener('click', onPrevPage);
-
-
-
-function onNextPage() {
-  if (pageNum >= pdfDoc.numPages) {
-    return;
-  }
-  pageNum++;
-  queueRenderPage(pageNum);
-}
-document.getElementById('next').addEventListener('click', onNextPage);
-
-
-
-pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
-  pdfDoc = pdfDoc_;
-  var numPages = pdfDoc.numPages;
-  document.getElementById('page_count').textContent = numPages;
-  
-  
-  if(pageNum > numPages) {
-    pageNum = numPages
-  }
-
-  
-  renderPage(pageNum);
-});
-}
-
-</script>
-
+<a href="https://vincentarmentano.com/cv/armentano_v_cv.pdf" target="_blank" rel="noopener">Please find my CV here.</a></p>
 
   </section>
 </main>

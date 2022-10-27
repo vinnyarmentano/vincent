@@ -14,6 +14,7 @@ show_author_byline: true
 show_button_links: false
 show_post_date: false
 show_post_thumbnail: true
+sidebar_left: false
 sidebar:
   author: The R Markdown Team @RStudio
   description: "Projects can be anything!\nCheck out the _index.md file in the /project

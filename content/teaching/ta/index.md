@@ -1,7 +1,7 @@
 ---
 author:
 categories:
-date: "2019-07-02"
+date: "2022-10-02"
 draft: false
 excerpt: Teaching Assistant Work
 featured: true
