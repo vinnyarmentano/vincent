@@ -20,7 +20,7 @@ cascade:
     text_link_url: /research/
 sidebar:
   author:
-  description: "The goal of my research is to help improve the choice set of policymakers looking to aid smallholder farmers overcome the new challenges they'll face due to climate change.  \n"
+  description: "The goal of my research is to help improve the choice set of policymakers looking to aid smallholder farmers in overcoming the new challenges they'll face due to climate change.  \n"
   show_sidebar_adunit: false
   text_link_label: Contact me
   text_link_url: mailto:varmenta@ucsd.edu
