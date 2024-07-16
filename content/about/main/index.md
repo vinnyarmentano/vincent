@@ -10,7 +10,7 @@ intro: |
   at the Department of Economics at UC San Diego.
   I hold a BA in Economics from Northeastern University. 
   My main interests lie in development economics and applied microeconomics with a special focus on agricultural production. 
-  Currently I am working on projects concerning smallholder farmers' expectations of rainfall and risk averse behavior as well
+  Currently I am working on projects concerning smallholder farmers' crop portfolio choices and risk averse behavior as well
   as examining potential labor misallocation and tenuous property rights.
   
   **Work Address:** 9500 Gilman Dr, La Jolla, CA 92093
