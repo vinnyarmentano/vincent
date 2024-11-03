@@ -1,7 +1,7 @@
 ---
 author:
 categories:
-date: "2024-11-3"
+date: "2024-11-1"
 draft: false
 excerpt: In progress.
 layout: single
