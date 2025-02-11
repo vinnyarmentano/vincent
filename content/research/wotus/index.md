@@ -6,7 +6,7 @@ draft: false
 excerpt: With [Philip G. Hoxie](https://www.philiphoxie.com/). [Draft available](https://vincentarmentano.com/research/wotus/armentano_hoxie_draft_20250210.pdf).
 layout: single
 subtitle: 
-title: Regulatory Risk and Firm Decision-making: Evidence from the Waters of the United States and US Farms
+title: "Regulatory Risk and Firm Decision-making: Evidence from the Waters of the United States and US Farms"
 ---
 
 [Draft available](https://vincentarmentano.com/research/wotus/armentano_hoxie_draft_20250210.pdf). \
