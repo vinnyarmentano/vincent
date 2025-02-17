@@ -171,6 +171,10 @@ enableEmoji = true
 #[permalinks]
 #  research = "/research/"
 
+# Analytics
+[params.analytics]
+  google_analytics = "G-K3XRF13V02"
+
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
   [privacy.disqus]
