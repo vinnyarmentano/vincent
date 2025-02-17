@@ -4,7 +4,7 @@ languageCode = "en"
 title = "Vincent Armentano"
 author = "Vincent Armentano, Author"
 copyright = "" # set to override the auto generated copyright using org info and now year
-googleAnalytics = ""
+googleAnalytics = "G-K3XRF13V02"
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus
 metaDataFormat = "yaml"
 footnoteReturnLinkContents = "&#8617;" # ↩
@@ -170,10 +170,6 @@ enableEmoji = true
 #Permalinks
 #[permalinks]
 #  research = "/research/"
-
-# Analytics
-[params.analytics]
-  google_analytics = "G-K3XRF13V02"
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
