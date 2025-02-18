@@ -10,6 +10,7 @@ title: How Poverty Fell
 ---
 
 [Draft available](https://vincentarmentano.com/research/hpf/how_poverty_fell.pdf). \
+[Pre-prepared teaching materials available](https://docs.google.com/presentation/d/1I0BTXY9D4dEZP2k-Ttc9Q1L_pnWhtIbtQJYykUaNqQ8/edit#slide=id.g325e4d01037_0_0). \
 \
 [Presented at NBER Development Economics, Fall 2024 conference](https://www.nber.org/conferences/development-economics-fall-2024). \
 \
