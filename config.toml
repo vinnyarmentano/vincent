@@ -134,6 +134,11 @@ enableEmoji = true
     title = "Teaching"
     url = "/teaching/"
     weight = 4
+  [[menu.header]]
+    name = "Astrophotography"
+    title = "Astrophotography"
+    url = "/astro/"
+    weight = 5
   #[[menu.header]]
   #  name = "Blog"
   #  title = "Blog"
