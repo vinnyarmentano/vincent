@@ -86,14 +86,6 @@ enableEmoji = true
   # Icon pack "fas" includes solid icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
   # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
   [[params.social]]
-      icon      = "twitter" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://twitter.com/vinnyarmentano"
-  [[params.social]]
-      icon      = "github" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://github.com/vinnyarmentano"
-  [[params.social]]
       icon      = "google" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://scholar.google.com/citations?user=PE_Kdd8AAAAJ&hl=en"
@@ -102,11 +94,23 @@ enableEmoji = true
       icon_pack = "ai"
       url       = "https://orcid.org/0000-0002-0710-3147"
   [[params.social]]
+      icon      = "github" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://github.com/vinnyarmentano"
+  [[params.social]]
+      icon      = "bluesky"
+      icon_pack = "fab"
+      url       = "https://bsky.app/profile/vinnyarmentano.bsky.social"
+  [[params.social]]
+      icon      = "twitter" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://twitter.com/vinnyarmentano"
+  [[params.social]]
       icon      = "envelope" # icon name without the 'fa-'
       icon_pack = "fas"
       url       = "mailto:varmenta@ucsd.edu"
   
-  
+ 
 [taxonomies]
   category = "categories"
   series = "series"
