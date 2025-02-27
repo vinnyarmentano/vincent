@@ -20,7 +20,7 @@ cascade:
     text_link_url: /research/
 sidebar:
   author:
-  description: "Development Economist focused on improving the policy options available to aid smallholder farmers.  \n"
+  description: "Development Economist focused on improving the policy options available to aid smallholder farmers. \n \n Jump to my [https://www.vincentarmentano.com/categories/published](published pieces), [https://www.vincentarmentano.com/categories/workingpapers](working papers) or my [https://www.vincentarmentano.com/categories/workinprogress](works in progress)."
   show_sidebar_adunit: false
   text_link_label: Contact me
   text_link_url: mailto:varmenta@ucsd.edu

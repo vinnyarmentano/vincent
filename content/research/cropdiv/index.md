@@ -1,6 +1,6 @@
 ---
 author:
-categories:
+categories: [workinprogress]
 date: "2024-10-30"
 draft: false
 excerpt: In progress.

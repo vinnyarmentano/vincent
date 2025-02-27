@@ -1,6 +1,6 @@
 ---
 author:
-categories:
+categories: [workingpapers]
 date: "2025-02-09"
 draft: false
 excerpt: With [Philip G. Hoxie](https://www.philiphoxie.com/). [Draft available](https://vincentarmentano.com/research/wotus/armentano_hoxie_draft_20250210.pdf).
