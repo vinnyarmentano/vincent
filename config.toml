@@ -86,7 +86,7 @@ enableEmoji = true
   # Icon pack "fas" includes solid icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
   # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
   [[params.social]]
-      icon      = "google" # icon name without the 'fa-'
+      icon      = "google-scholar" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://scholar.google.com/citations?user=PE_Kdd8AAAAJ&hl=en"
   [[params.social]]
@@ -105,6 +105,10 @@ enableEmoji = true
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://twitter.com/vinnyarmentano"
+  [[params.social]]
+      icon      = "linkedin" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.linkedin.com/in/vincentarmentano/"
   [[params.social]]
       icon      = "envelope" # icon name without the 'fa-'
       icon_pack = "fas"
