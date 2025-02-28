@@ -98,7 +98,7 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://github.com/vinnyarmentano"
   [[params.social]]
-      icon      = "bluesky"
+      icon      = "square-bluesky" # icon name without the 'fa-' https://fontawesome.com/icons/square-bluesky?f=classic&s=brands
       icon_pack = "fab"
       url       = "https://bsky.app/profile/vinnyarmentano.bsky.social"
   [[params.social]]
