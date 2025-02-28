@@ -14,7 +14,7 @@ links:
   icon_pack: fas
   name: Appendix
   url: https://vincentarmentano.com/research/mvotma/armentanov_movinonup_appendix.pdf
-- icon: file-pen
+- icon: file-signature
   icon_pack: fas
   name: .bib citation file
   url: https://vincentarmentano.com/research/mvotma/S0047272724000744.bib
