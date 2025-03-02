@@ -3,7 +3,7 @@ author:
 categories:
 date: "2022-12-10"
 draft: false
-excerpt: 
+excerpt: Our closest celestial neighbor.
 subtitle: 
 title: Luna
 ---
@@ -11,7 +11,7 @@ title: Luna
 Dec 10th, 2022
 {{< panelset class="greetings" >}}
 {{< panel name="Picture" >}}
-![Moon](featured.png)
+![Moon](featured.webp)
 {{< /panel >}}
 {{< panel name="Capture Details" >}}
 Orion XT10 \

@@ -1,14 +1,14 @@
 ---
 author:
 categories:
-date: "2021-10-23"
+date: "2024-04-08"
 draft: false
-excerpt: 
+excerpt: Taken from just an hour north of Columbus, OH. \n Never magnify the sun without proper protection!
 subtitle: 
 title: Eclipse - April 8th, 2025
 ---
 
-April 8th, 2025
+April 8th, 2024
 {{< panelset class="greetings" >}}
 {{< panel name="Picture" >}}
 ![Taken from just North of Columbus, Ohio](featured.png)
