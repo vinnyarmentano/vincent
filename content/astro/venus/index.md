@@ -3,15 +3,15 @@ author:
 categories:
 date: "2023-01-22"
 draft: false
-excerpt: 
+excerpt: The brightest thing in the sky after the Sun and the Moon.
 subtitle: 
-title: Luna
+title: Venus
 ---
 
 January 22nd, 2023
 {{< panelset class="greetings" >}}
 {{< panel name="Picture" >}}
-![Moon](featured.png)
+![Venus](featured.webp)
 {{< /panel >}}
 {{< panel name="Capture Details" >}}
 Orion XT10 \

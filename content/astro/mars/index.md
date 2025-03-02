@@ -3,7 +3,7 @@ author:
 categories:
 date: "2025-01-17"
 draft: false
-excerpt: 
+excerpt: Featuring one polar ice cap.
 subtitle: 
 title: Mars
 ---
