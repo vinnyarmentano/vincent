@@ -3,13 +3,13 @@ author:
 categories: [workingpapers]
 date: "2024-10-31"
 draft: false
-excerpt: With [Paul Niehaus](https://econweb.ucsd.edu/~pniehaus/index.html) and [Tom Vogl](https://tomvogl.github.io/). [Draft available](https://vincentarmentano.com/research/hpf/how_poverty_fell.pdf).
+excerpt: With [Paul Niehaus](https://econweb.ucsd.edu/~pniehaus/index.html) and [Tom Vogl](https://tomvogl.github.io/). [Draft available](https://vincentarmentano.com/research/hpf/howpovertyfell.pdf).
 layout: single
 links:
 - icon: file-pdf
   icon_pack: fas
   name: Draft available
-  url: https://vincentarmentano.com/research/hpf/how_poverty_fell.pdf
+  url: https://vincentarmentano.com/research/hpf/howpovertyfell.pdf
 - icon: file-powerpoint
   icon_pack: fas
   name: Pre-prepared teaching materials available
