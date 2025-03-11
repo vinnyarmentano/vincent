@@ -24,7 +24,7 @@ While this photo below is zoomed in and emphasizes the solar prominences that ar
 
 {{< panelset class="greetings" >}}
 {{< panel name="Picture" >}}
-![Taken from just North of Columbus, Ohio](prominences.png)
+![Taken from just North of Columbus, Ohio](prominence.png)
 {{< /panel >}}
 {{< panel name="Capture Details" >}}
 Canon T3i with [Baader Solar Film](https://agenaastro.com/baader-astro-solar-spotter-filter-assf-65.html) \
