@@ -3,8 +3,7 @@ author:
 categories: [published]
 date: "2024-07-11"
 draft: false
-excerpt: 
-	With [Craig McIntosh](https://gps.ucsd.edu/faculty-directory/craig-mcintosh.html), [Felipe Monestier](https://cienciassociales.edu.uy/departamento-de-ciencia-politica/felipe-monestier/), [Rafael Piñeiro-Rodríguez](https://snfagora.jhu.edu/person/rafael-pineiro-rodriguez/), [Fernando Rosenblatt](https://fernandorosenblatt.com/) and [Guadalupe Tuñón](http://www.guadalupetunon.com/). [Published July 2024 in the Journal of Public Economics.](https://www.sciencedirect.com/science/article/abs/pii/S0047272724000744)
+excerpt: With [Craig McIntosh](https://gps.ucsd.edu/faculty-directory/craig-mcintosh.html), [Felipe Monestier](https://cienciassociales.edu.uy/departamento-de-ciencia-politica/felipe-monestier/), [Rafael Piñeiro-Rodríguez](https://snfagora.jhu.edu/person/rafael-pineiro-rodriguez/), [Fernando Rosenblatt](https://fernandorosenblatt.com/) and [Guadalupe Tuñón](http://www.guadalupetunon.com/). [Published July 2024 in the Journal of Public Economics.](https://www.sciencedirect.com/science/article/abs/pii/S0047272724000744)
 layout: single
 links:
 - icon: file-pdf
