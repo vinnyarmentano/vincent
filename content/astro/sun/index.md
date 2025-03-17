@@ -3,15 +3,15 @@ author:
 categories:
 date: "2024-02-10"
 draft: false
-excerpt:
+excerpt: [The Sun](https://science.nasa.gov/sun/facts/)
 subtitle: 
-title: The Sun
+title: Sol
 ---
 
 February 10th, 2024
 {{< panelset class="greetings" >}}
 {{< panel name="Picture" >}}
-![Sunspots](Revised7874.png)
+![Sunspots](Revised7874.jpg)
 {{< /panel >}}
 {{< panel name="Capture Details" >}}
 Canon T3i with [Baader Solar Film](https://agenaastro.com/baader-astro-solar-spotter-filter-assf-65.html) \
