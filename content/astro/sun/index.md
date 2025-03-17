@@ -3,7 +3,7 @@ author:
 categories:
 date: "2024-02-10"
 draft: false
-excerpt: [The Sun](https://science.nasa.gov/sun/facts/)
+excerpt: [The Sun](https://science.nasa.gov/sun/facts/).
 subtitle: 
 title: Sol
 ---
