@@ -10,8 +10,11 @@ title: Sol
 
 February 10th, 2024
 {{< panelset class="greetings" >}}
-{{< panel name="Picture" >}}
+{{< panel name="Edited Picture" >}}
 ![Sunspots](Revised7874.jpg)
+{{< /panel >}}
+{{< panel name="Raw Picture" >}}
+![Raw](featured.png)
 {{< /panel >}}
 {{< panel name="Capture Details" >}}
 Canon T3i with [Baader Solar Film](https://agenaastro.com/baader-astro-solar-spotter-filter-assf-65.html) \
@@ -20,7 +23,7 @@ Shutter Speed at 1/1250 seconds
 {{< /panel >}}
 {{< /panelset >}}
 
-This photo was taken in white light and then edited to reflect the more orange-yellow we would expect from the sun. \
+This photo was taken in white light and then edited to reflect the more orange-yellow colors we would expect from the sun. \
 The dark spots are called sunspots and are cool areas on the Sun's surface that are magnetically charged. For scale the largest sunspot in this photo is about the size of Earth. \
 \
 Learn more about [the Sun](https://science.nasa.gov/sun/facts/).
