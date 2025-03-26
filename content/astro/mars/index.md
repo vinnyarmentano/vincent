@@ -1,7 +1,7 @@
 ---
 author:
 categories:
-date: "2025-01-17"
+date: "2024-11-01"
 draft: false
 excerpt: Featuring one polar ice cap.
 subtitle: 
