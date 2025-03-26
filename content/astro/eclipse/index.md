@@ -1,7 +1,7 @@
 ---
 author:
 categories:
-date: "2024-04-08"
+date: "2025-02-01"
 draft: false
 excerpt: Taken from just an hour north of Columbus, OH. Never magnify the sun without proper protection!
 subtitle: 

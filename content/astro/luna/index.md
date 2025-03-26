@@ -1,7 +1,7 @@
 ---
 author:
 categories:
-date: "2022-12-10"
+date: "2023-12-01"
 draft: false
 excerpt: Our closest celestial neighbor.
 subtitle: 

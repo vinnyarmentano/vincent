@@ -1,7 +1,7 @@
 ---
 author:
 categories:
-date: "2023-01-22"
+date: "2025-01-01"
 draft: false
 excerpt: The brightest thing in the sky after the Sun and the Moon.
 subtitle: 

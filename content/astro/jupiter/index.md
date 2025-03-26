@@ -1,7 +1,7 @@
 ---
 author:
 categories:
-date: "2021-10-23"
+date: "2023-10-01"
 draft: false
 excerpt: Featuring the [Galilean Moons](https://shallowsky.com/jupiter/)
 subtitle: 
