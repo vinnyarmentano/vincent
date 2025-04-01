@@ -3,15 +3,15 @@ author:
 categories: [workingpapers]
 date: "2025-02-09"
 draft: false
-excerpt: With [Philip G. Hoxie](https://www.philiphoxie.com/).  [Draft available](https://vincentarmentano.com/research/wotus/armentano_hoxie_draft_20250210.pdf).
+excerpt: With [Philip G. Hoxie](https://www.philiphoxie.com/).  [Draft available on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5199716).
 layout: single
 subtitle: 
 title: "Regulatory Risk and Firm Decision-making: Evidence from the Waters of the United States and US Farms"
 links:
 - icon: file-pdf
   icon_pack: fas
-  name: Draft available
-  url: https://vincentarmentano.com/research/wotus/armentano_hoxie_draft_20250210.pdf
+  name: Draft available on SSRN
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5199716
 ---
 
 With [Philip G. Hoxie](https://www.philiphoxie.com/).
