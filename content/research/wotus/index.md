@@ -12,6 +12,10 @@ links:
   icon_pack: fas
   name: Draft available on SSRN
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5199716
+- icon: file-pdf
+  icon_pack: fas
+  name: Locally hosted draft 
+  url: https://vincentarmentano.com/research/wotus/armentano_hoxie_draft_20250210.pdf
 ---
 
 With [Philip G. Hoxie](https://www.philiphoxie.com/).
