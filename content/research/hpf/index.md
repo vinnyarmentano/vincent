@@ -30,6 +30,8 @@ The share of the global population living in extreme poverty fell dramatically f
 
 Piece featured in [The Economist, "India has undermined a popular myth about development", February 27th, 2025](https://www.economist.com/finance-and-economics/2025/02/27/india-has-undermined-a-popular-myth-about-development).
 
+Piece covered by [VoxDev on VoxDevTalks, "How has global poverty fallen"](https://voxdev.org/topic/methods-measurement/how-has-global-poverty-fallen). YouTube video featuring Tom Vogl [available here](https://www.youtube.com/watch?v=tcSM1dcVKsU).
+
 ### Publicly available presentations
 
 [Presented at NBER Development Economics, Fall 2024 conference](https://www.nber.org/conferences/development-economics-fall-2024).
