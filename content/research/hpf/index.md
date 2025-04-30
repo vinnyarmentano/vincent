@@ -34,6 +34,8 @@ Piece covered by [VoxDev on VoxDevTalks, "How has global poverty fallen"](https:
 
 ### Publicly available presentations
 
-[Presented at NBER Development Economics, Fall 2024 conference](https://www.nber.org/conferences/development-economics-fall-2024).
+[Presented at NBER Development Economics, Fall 2024 conference by Tom Vogl](https://www.nber.org/conferences/development-economics-fall-2024).
+Recording of session available here;
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sCVyrJJd_Pc?si=Z-lWztQU_7jwo3p6&amp;start=19078" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
