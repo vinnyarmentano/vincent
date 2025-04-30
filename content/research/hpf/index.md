@@ -30,12 +30,15 @@ The share of the global population living in extreme poverty fell dramatically f
 
 Piece featured in [The Economist, "India has undermined a popular myth about development", February 27th, 2025](https://www.economist.com/finance-and-economics/2025/02/27/india-has-undermined-a-popular-myth-about-development).
 
-Piece covered by [VoxDev on VoxDevTalks, "How has global poverty fallen"](https://voxdev.org/topic/methods-measurement/how-has-global-poverty-fallen). YouTube video featuring Tom Vogl [available here](https://www.youtube.com/watch?v=tcSM1dcVKsU).
+Piece covered by [VoxDev on VoxDevTalks, "How has global poverty fallen"](https://voxdev.org/topic/methods-measurement/how-has-global-poverty-fallen). \
+YouTube video featuring Tom Vogl [available here](https://www.youtube.com/watch?v=tcSM1dcVKsU).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tcSM1dcVKsU?si=oL7EHWydG-Q8yTTs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ### Publicly available presentations
 
-[Presented at NBER Development Economics, Fall 2024 conference by Tom Vogl](https://www.nber.org/conferences/development-economics-fall-2024).
-Recording of session available here;
+[Presented at NBER Development Economics, Fall 2024 conference by Tom Vogl](https://www.nber.org/conferences/development-economics-fall-2024). \
+Recording of session [available here](https://www.youtube.com/live/sCVyrJJd_Pc?si=w7Z8jlmrqxkcTjto&t=19078);
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sCVyrJJd_Pc?si=Z-lWztQU_7jwo3p6&amp;start=19078" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
