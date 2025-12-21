@@ -11,7 +11,7 @@ title: Saturn
 October 25th, 2022
 {{< panelset class="greetings" >}}
 {{< panel name="Picture" >}}
-![Rings, no moons](featured.jpg)
+![Rings, no moons](featured.png)
 {{< /panel >}}
 {{< panel name="Capture Details" >}}
 Orion XT10 \
