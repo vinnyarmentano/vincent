@@ -53,3 +53,6 @@ Canon T3i \
 Taken from San Diego, CA.
 {{< /panel >}}
 {{< /panelset >}}
+
+An animation taken over the course of 40 minutes on November 28th, 2023
+<iframe width="690" height="1226" src="https://www.youtube.com/embed/OmSyEXRUims" title="Io Transit of Jupiter, 20231128, 11:20PM PST - Midnight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
