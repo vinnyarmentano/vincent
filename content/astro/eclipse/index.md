@@ -5,7 +5,7 @@ date: "2025-02-01"
 draft: false
 excerpt: Taken from just an hour north of Columbus, OH. Never magnify the sun without proper protection!
 subtitle: 
-title: Eclipse - April 8th, 2025
+title: Eclipse - April 8th, 2024
 ---
 
 April 8th, 2024
