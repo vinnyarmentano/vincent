@@ -6,7 +6,7 @@ use_featured: false # if false, use most recent by date
 number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
-  My name is Vincent Armentano and I am currently a PhD Candidate 
+  My name is Vincent Armentano and I am currently a PhD candidate 
   at the Department of Economics at UC San Diego.
   I hold a BA in Economics from Northeastern University. 
   My main interests lie in development economics, poverty dynamics and agricultural production. 
