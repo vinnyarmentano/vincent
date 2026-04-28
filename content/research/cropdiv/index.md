@@ -5,11 +5,16 @@ date: "2026-04-27"
 draft: false
 excerpt: In progress, current draft available on request.
 layout: single-sidebar
-subtitle:
+links:
+- icon: envelope
+  icon_pack: fas
+  name: Draft available upon request
+  url: "mailto:varmenta@ucsd.edu"
+subtitle: "Job market paper."
 title: "Crop Portfolio Diversification under Fixed Entry Costs: Evidence from a Cash Transfer in Mali"
 sidebar:
   text_link_label: Draft available on request
-  text_link_url: "mailto:your-email@ucsd.edu"
+  text_link_url: "mailto:varmenta@ucsd.edu"
   show_sidebar_adunit: false
 ---
  
