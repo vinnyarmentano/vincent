@@ -13,7 +13,7 @@ links:
 - icon: file-powerpoint
   icon_pack: fas
   name: Pre-prepared teaching materials available
-  url: https://docs.google.com/presentation/d/1I0BTXY9D4dEZP2k-Ttc9Q1L_pnWhtIbtQJYykUaNqQ8/edit#slide=id.g325e4d01037_0_0
+  url: https://docs.google.com/presentation/d/1XRVnzql2Ro4s0EGaSlGyUNtV3NG_2CckDeZzkvAt6v4/edit?usp=sharing
 subtitle: 
 title: How Poverty Fell
 ---
