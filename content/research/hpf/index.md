@@ -12,8 +12,12 @@ links:
   url: https://vincentarmentano.com/research/hpf/howpovertyfell.pdf
 - icon: file-powerpoint
   icon_pack: fas
-  name: Pre-prepared teaching materials available
+  name: Pre-prepared teaching materials
   url: https://docs.google.com/presentation/d/1XRVnzql2Ro4s0EGaSlGyUNtV3NG_2CckDeZzkvAt6v4/edit?usp=sharing
+- icon: file-pdf
+  icon_pack: fas
+  name: NBER WP
+  url: https://www.nber.org/papers/w35163
 subtitle: 
 title: How Poverty Fell
 ---
