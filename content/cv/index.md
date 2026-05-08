@@ -7,7 +7,7 @@ show_title_as_headline: true
 title: Curriculum Vitae
 ---
 
-# 404, I'm 95% confident this isn't the page you're looking for!
+# I'm 95% confident this isn't the page you're looking for!
 \
 \
-[Please find the latest version of my CV here.](https://vincentarmentano.com/cv/armentano_v_cv_20250214.pdf)
+[Please find the latest version of my CV here.](https://vincentarmentano.com/cv/armentano_v_cv.pdf)
