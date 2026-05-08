@@ -10,7 +10,7 @@
         {{ $active = or $active (eq $page.Section (trim .URL "/")) }}
         {{ $active = or $active (eq $page.RelPermalink .URL ) }}
         {{ $href := .URL }}
-        {{ if hasSuffix .URL ".pdf" }}{{ $href = printf "%s?v=%s" .URL (now.Format "2006-01-02") }}{{ end }}
+        {{ if strings.HasSuffix .URL ".pdf" }}{{ $href = printf "%s?v=%s" .URL (now.Format "2006-01-02") }}{{ end }}
       <a class="link f6 f5-l dib pv1 ph2 {{ if $active }}active{{ end }}" href="{{ $href | safeURL }}" title="{{ .Title }}">{{ .Name }}</a>
       {{ end }}
       {{ if .Site.Params.socialInHeader }}
