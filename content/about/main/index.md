@@ -10,7 +10,7 @@ intro: |
   
   In my free time I also look at significant stars — through a telescope rather than on my computer screen though. You can find some of my attempts at astrophotography [here](https://vincentarmentano.com/astro/).
 
-  My CV is available __[here](https://vincentarmentano.com/cv/armentano_v_cv.pdf)__.
+  My CV is available __{{< cvlink >}}here{{< /cvlink >}}__.
 
   You can find my Job Market Paper __[here](https://vincentarmentano.com/research/cropdiv)__.
 

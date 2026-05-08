@@ -10,4 +10,4 @@ title: Curriculum Vitae
 # I'm 95% confident this isn't the page you're looking for!
 \
 \
-[Please find the latest version of my CV here.](https://vincentarmentano.com/cv/armentano_v_cv.pdf)
+{{< cvlink >}}Please find the latest version of my CV here.{{< /cvlink >}}
