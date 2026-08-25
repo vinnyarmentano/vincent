@@ -1,1 +1,16 @@
 // Override this file to add your own SCSS styling.
+// 2026-08-25: on mobile, show research/listing content BEFORE the sidebar
+// photo, so visitors land on the papers immediately (feedback from Jay).
+// Desktop keeps the photo in the left column; this only reorders the
+// stacked mobile layout. Scaffold.scss sets sidebar order:2 / main order:3
+// inside .list-sidebar at <=768px; flip them back here.
+@media screen and (max-width: 768px) {
+  .list-sidebar {
+    .page-main {
+      order: 2;
+    }
+    .page-sidebar {
+      order: 3;
+    }
+  }
+}
