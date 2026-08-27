@@ -25,7 +25,8 @@
     grid-template-columns: minmax(0, 36rem) minmax(0, 1fr);
     gap: 3rem;
     align-items: center;
-    width: min(85rem, 90vw);
+    width: 90vw;
+    max-width: 85rem;
     position: relative;
     left: 50%;
     transform: translateX(-50%);
