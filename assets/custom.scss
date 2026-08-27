@@ -14,3 +14,24 @@
     }
   }
 }
+
+// 2026-08-27: side-by-side abstract + figure on research pages at wide
+// viewports. Narrow screens keep the stacked layout; wide screens break the
+// pair out of the mw7 text column so the figure uses the side dead space
+// while the abstract keeps a readable line length.
+@media (min-width: 1250px) {
+  .side-by-side {
+    display: grid;
+    grid-template-columns: minmax(0, 36rem) minmax(0, 1fr);
+    gap: 3rem;
+    align-items: center;
+    width: min(85rem, 90vw);
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  .side-by-side .sbs-figure img {
+    max-width: 100%;
+    margin: 0;
+  }
+}
