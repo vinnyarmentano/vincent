@@ -22,17 +22,26 @@
 @media (min-width: 1250px) {
   .side-by-side {
     display: grid;
-    grid-template-columns: minmax(0, 36rem) minmax(0, 1fr);
+    // text cell matches the page's normal column so the title, abstract,
+    // and button share one left spine; only the figure bleeds rightward
+    grid-template-columns: minmax(0, 34rem) minmax(0, 1fr);
     gap: 3rem;
     align-items: center;
-    width: 90vw;
+    // from the column's left edge to near the right viewport edge:
+    // (100vw - 48rem)/2 of gutter sits left of the column, so the room
+    // available rightward is 50vw + 24rem; leave a 4rem breathing margin
+    width: calc(50vw + 20rem);
     max-width: 85rem;
-    position: relative;
-    left: 50%;
-    transform: translateX(-50%);
   }
   .side-by-side .sbs-figure img {
     max-width: 100%;
     margin: 0;
+  }
+  // justified abstract so the text block presents two clean edges beside
+  // the figure; hyphenation keeps justification from opening rivers
+  .side-by-side .sbs-text p {
+    text-align: justify;
+    hyphens: auto;
+    -webkit-hyphens: auto;
   }
 }
