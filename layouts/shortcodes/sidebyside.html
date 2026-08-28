@@ -1,0 +1,10 @@
+{{- /* Two-cell layout: markdown before <!--figure--> goes left, after it goes
+right. Stacks vertically below 1250px; side-by-side with a breakout width
+above. Styling in assets/custom.scss (.side-by-side). */ -}}
+{{- $parts := split .Inner "<!--figure-->" -}}
+<div class="side-by-side">
+  <div class="sbs-text">{{ index $parts 0 | markdownify }}</div>
+  {{- if gt (len $parts) 1 }}
+  <div class="sbs-figure">{{ index $parts 1 | markdownify }}</div>
+  {{- end }}
+</div>
