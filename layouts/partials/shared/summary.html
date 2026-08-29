@@ -19,10 +19,12 @@
         {{ with $thumbnail }}
           {{/* 2026-08-27 site override: serve a resized thumbnail on list
                pages instead of the raw featured image (some astro originals
-               are 7-15 MB). Dedicated pages still load full resolution. */}}
+               are 7-15 MB). WebP keeps alpha so transparent-background
+               figures blend with the page. Dedicated pages still load full
+               resolution. */}}
           {{ $thumb := . }}
           {{ if in (slice "png" "jpeg" "webp" "tiff" "bmp") .MediaType.SubType }}
-            {{ $thumb = .Resize "800x jpg q80" }}
+            {{ $thumb = .Resize "800x webp q85" }}
           {{ end }}
           <img src="{{ $thumb.RelPermalink | absURL }}" class="db ma0 dim" alt="">
         {{ end }}
