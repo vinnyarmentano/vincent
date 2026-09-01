@@ -1,15 +1,16 @@
 ---
 author:
-type: blog
+type: project
 title: Astrophotography
-layout: list-sidebar
+description: "Stars are fun to see outside of regression results too."
+layout: list-grid
 show_author_byline: false
 show_button_links: false
 show_post_date: false
 show_post_thumbnail: true
 sidebar_left: true
 cascade:
-  type: blog
+  type: project
   author: Astrophotography
   show_author_byline: false
   show_comments: false
