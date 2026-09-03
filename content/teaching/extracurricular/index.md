@@ -20,14 +20,14 @@ sidebar:
   title: Vincent Armentano
 ---
 ## Graduate Student Research Seminar (GSRS)
-#### Fall 2021-Present
-The Graduate Student Research Seminar (GSRS) is a weekly seminar for graduate students to present ongoing works to other graduate students. Alongside one other student, I help organize this seminar series each quarter. 
+#### Fall 2021-Spring 2023
+The Graduate Student Research Seminar (GSRS) is a weekly seminar for graduate students to present ongoing work to other graduate students. Alongside one other student, I organized this seminar series each quarter. 
 
 ---
 
 ## [ECONnected](https://economics.ucsd.edu/undergraduate-program/how-to-prepare-for-a-phd-in-econ/first-steps/talking-to-ucsdgrad.html)
-#### Winter 2020-Present
-Preparing to apply to graduate school can be an opque process to undergruate students. ECONnected was established to help facilitate conversations between undergrad and graduate economics students to help eliminate knowledge gaps. 
+#### Winter 2021-Spring 2023
+Preparing to apply to graduate school can be an opaque process to undergraduate students. ECONnected was established to help facilitate conversations between undergrad and graduate economics students to help eliminate knowledge gaps. 
 
 I helped establish this organization and keep it running on campus.
 
