@@ -45,3 +45,22 @@
     -webkit-hyphens: auto;
   }
 }
+
+// Home hero on small screens (2026-09-06). The headshot now leads the page
+// (see layouts/index.html), so it must not swallow the first screen: cap it
+// so the name and affiliation stay visible above the fold on short phones.
+// Above 60em the theme's flex row takes over and this is inert.
+@media screen and (max-width: 59.99em) {
+  .home-intro__image {
+    text-align: center;
+  }
+  .home-intro__image img {
+    max-height: 42vh;
+    width: auto;
+    max-width: 80%;
+    margin: 0 auto;
+  }
+  .home-intro__text h1 {
+    margin-top: 1.5rem;
+  }
+}
