@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Welcome to my personal webpage. I am currently a PhD candidate at UC San Diego. I am interested in development and applied microeconomics with a focus on agricultural production.
+description: I am a PhD candidate in economics at UC San Diego, on the 2026-27 job market. I work in development and applied microeconomics, with a focus on production and risk in smallholder agriculture. [My job market paper is available here.](https://vincentarmentano.com/research/cropdiv/)
 image_left: true
 images:
 - img/headshot.jpg
