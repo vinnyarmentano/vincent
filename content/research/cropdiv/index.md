@@ -23,3 +23,9 @@ financial portfolio choice exact, estimating expected returns and the full covar
 <!--figure-->
 ![Efficient frontier of crop portfolios in Mali](featured-sidebar.png)
 {{< /sidebyside >}}
+
+--- 
+### Presentations
+[North East Universities Development Consortium (NEUDC)](https://cidercornell.github.io/neudc2026), Cornell University, November 2026 \
+[CEGA Research Retreat (R²)](https://cega.berkeley.edu/event/cega-research-retreat-r2-2026/), UC Berkeley, October 2026 \
+[Development and Political Economics Conference](https://events.stanford.edu/event/devpec-2026), Stanford King Center on Global Development, April 2026
