@@ -1,14 +1,18 @@
 ---
 author:
 categories: [workinprogress]
-date: "2026-04-27"
+date: "2026-09-28"
 draft: false
-excerpt: In progress, current draft available on request.
+excerpt: Job market paper. [Current draft](https://vincentarmentano.com/research/cropdiv/armentanov_cropdiv.pdf).
 layout: single
 links:
+- icon: file-pdf
+  icon_pack: fas
+  name: Current draft (September 2026)
+  url: https://vincentarmentano.com/research/cropdiv/armentanov_cropdiv.pdf
 - icon: envelope
   icon_pack: fas
-  name: Draft available upon request
+  name: Comments welcome
   url: "mailto:varmenta@ucsd.edu"
 subtitle: "Job market paper."
 title: "Measuring Risk from Crop Portfolio Choices in Development Interventions"
@@ -17,8 +21,7 @@ title: "Measuring Risk from Crop Portfolio Choices in Development Interventions"
 {{< sidebyside >}}
 ### Abstract
  
-Development policy has promoted crop diversification for decades as a way to reduce smallholder farmers’ exposure to risk. In spite of this, the standard measures of diversification, crop counts and concentration indices, cannot sign changes in portfolio risk. I make the long-standing analogy between crop choice and
-financial portfolio choice exact, estimating expected returns and the full covariance matrix of crop returns from plot-crop-level panel data in Southern Mali. Theory leaves the risk response to a cash transfer ambiguous: it could buy higher returns or lower risk. Farmers randomly assigned an unconditional cash transfer reduced portfolio risk without a detectable change in expected returns, an efficiency gain on the order of 5.2 to 12 percent of the transfer value per season under the bounding assumptions. Count-based measures miss this reduction entirely, registering only that treated farmers grow more unique crop types. The poorest recipients reallocate land across crops without expanding portfolio size while the richest expand it, consistent with a fixed cost of entering a new crop. This evidence points to a liquidity constraint on diversification rather than a shift in apparent preferences for risk, and counting unique crops turns out to be neither necessary nor sufficient to sign a change in portfolio risk.
+Development policy has promoted crop diversification for decades as a way to reduce smallholder farmers’ exposure to risk. In spite of this, the standard measures of diversification, crop counts and concentration indices, cannot sign changes in portfolio risk. I make the long-standing analogy between crop choice and financial portfolio choice exact, estimating expected returns and the full covariance matrix of crop returns from plot-crop-level panel data collected for a cash transfer experiment in Southern Mali. Theory leaves the risk response to that transfer ambiguous: it could buy higher returns or lower risk. Farmers randomly assigned the grant reduced portfolio risk but did not sacrifice expected returns. Bounding risk aversion from where farmers sit relative to the efficient frontier, this gain is worth 5.2 to 12 percent of the transfer value per season. Count-based measures miss this reduction entirely, registering only that treated farmers grow more unique crop types. The poorest recipients reallocate land across crops without expanding portfolio size while the richest expand their portfolios, consistent with a fixed cost of entering a new crop. This evidence points to a liquidity constraint on diversification rather than a shift in preferences for risk.
 
 <!--figure-->
 ![Efficient frontier of crop portfolios in Mali](featured-sidebar.png)
