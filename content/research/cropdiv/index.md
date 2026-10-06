@@ -8,7 +8,7 @@ layout: single
 links:
 - icon: file-pdf
   icon_pack: fas
-  name: Current draft (September 2026)
+  name: Current draft (October 2026)
   url: https://vincentarmentano.com/research/cropdiv/armentanov_cropdiv.pdf
 - icon: envelope
   icon_pack: fas
@@ -21,7 +21,7 @@ title: "Measuring Risk from Crop Portfolio Choices in Development Interventions"
 {{< sidebyside >}}
 ### Abstract
  
-Development policy has promoted crop diversification for decades as a way to reduce smallholder farmers’ exposure to risk. In spite of this, the standard measures of diversification, crop counts and concentration indices, cannot sign changes in portfolio risk. I make the long-standing analogy between crop choice and financial portfolio choice exact, estimating expected returns and the full covariance matrix of crop returns from plot-crop-level panel data collected for a cash transfer experiment in Southern Mali. Theory leaves the risk response to that transfer ambiguous: it could buy higher returns or lower risk. Farmers randomly assigned the grant reduced portfolio risk but did not sacrifice expected returns. Bounding risk aversion from where farmers sit relative to the efficient frontier, this gain is worth 5.2 to 12 percent of the transfer value per season. Count-based measures miss this reduction entirely, registering only that treated farmers grow more unique crop types. The poorest recipients reallocate land across crops without expanding portfolio size while the richest expand their portfolios, consistent with a fixed cost of entering a new crop. This evidence points to a liquidity constraint on diversification rather than a shift in preferences for risk.
+Development policy has promoted crop diversification for decades as a way to reduce smallholder farmers’ exposure to risk. In spite of this, the standard measures of diversification, crop counts and concentration indices, cannot sign changes in portfolio risk. I make the long-standing analogy between crop choice and financial portfolio choice exact, estimating expected returns and the full covariance matrix of crop returns from plot-crop-level panel data collected for a cash transfer experiment in Southern Mali. Theory leaves the risk response to that transfer ambiguous: it could buy higher returns or lower risk. Farmers randomly assigned the grant reduced portfolio risk but did not sacrifice expected returns. Bounding risk aversion from where farmers sit relative to the efficient frontier, I value this gain at 5.2 to 12 percent of the transfer value per season. Standard count-based and specialization measures show significant effects but miss this improvement in efficiency entirely. The richest households in the sample reduce risk by expanding their portfolio breadth, consistent with a fixed cost of entering a new crop. In contrast, the poorest recipients do not expand their portfolios but still reduce risk through reallocating land across crop types. This evidence points to a liquidity constraint on diversification rather than a shift in preferences for risk.
 
 <!--figure-->
 ![Efficient frontier of crop portfolios in Mali](featured-sidebar.png)
