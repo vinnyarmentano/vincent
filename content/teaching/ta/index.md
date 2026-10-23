@@ -7,6 +7,10 @@ excerpt: Teaching Assistant Work
 featured: true
 layout: single
 links:
+- icon: file-pdf
+  icon_pack: fas
+  name: Teaching Statement
+  url: https://vincentarmentano.com/teaching/evaluations/Armentano_Teaching_Economics.pdf
 subtitle:
 tags:
 title: TA Work

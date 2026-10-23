@@ -5,6 +5,11 @@ date: "2026-08-30"
 draft: false
 excerpt: Every student evaluation of my teaching at UC San Diego, in one place.
 layout: single
+links:
+- icon: file-pdf
+  icon_pack: fas
+  name: Teaching Statement
+  url: https://vincentarmentano.com/teaching/evaluations/Armentano_Teaching_Economics.pdf
 subtitle:
 tags:
 title: Student Evaluations
