@@ -10,6 +10,10 @@ links:
   icon_pack: fas
   name: Current draft (October 2026)
   url: https://vincentarmentano.com/research/cropdiv/armentanov_cropdiv.pdf
+- icon: twitter
+  icon_pack: fas
+  name: Twitter Thread
+  url: https://x.com/vinnyarmentano/status/2115103969181847905
 - icon: envelope
   icon_pack: fas
   name: Comments welcome
