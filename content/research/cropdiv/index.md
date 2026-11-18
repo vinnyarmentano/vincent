@@ -8,7 +8,7 @@ layout: single
 links:
 - icon: file-pdf
   icon_pack: fas
-  name: Current draft (October 2026)
+  name: Current draft (November 2026)
   url: https://vincentarmentano.com/research/cropdiv/armentanov_cropdiv.pdf
 - icon: twitter
   icon_pack: fab
